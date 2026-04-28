@@ -9,6 +9,6 @@ SwiftUi application which is developed to show movie Lists, Search Lists and sav
 - Pagination on scroll
 - Store data offline
 
-## Setup (TMDb key)
+## Setup
 
 Access Token and APi key is stored in plist
